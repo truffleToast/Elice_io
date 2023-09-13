@@ -1,17 +1,12 @@
-[
-    {"elice":
-    {
+{
+    "elice": {
         "id" : "your_id",
-        "pw" : "your_pw"
-    } 
-},
-    {"github":
-        {
-            "id..":"d",
-            "pw" :"a"
-        }    
-
-
-
+        "pw": "password"},
+    "naver": {
+        "id" : "your_id",
+        "pw" : "pw"},
+    "kakao": {
+        "id" : "your_id",
+        "pw" : "pw"
+    }
 }
-]

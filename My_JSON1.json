@@ -1,12 +1,7 @@
 {
     "elice": {
         "id" : "your_id",
-        "pw": "password"},
-    "naver": {
-        "id" : "your_id",
-        "pw" : "pw"},
-    "kakao": {
-        "id" : "your_id",
-        "pw" : "pw"
+        "pw": "password"}
+
     }
-}
+

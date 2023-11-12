@@ -1,3 +1,7 @@
+
+#
+현재 css 속성이 변경되어 사용불가 ->  fix예정
+
 # Elice_io<br>
 My_Json1파일에서 자기 아이디랑 비밀번호 고치기<br>
 dist에서 <br>
